@@ -1,6 +1,6 @@
 title: Holly's House
 logo: /assets/img/logo.jpg
 description: Description goes here
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
