@@ -6,8 +6,7 @@
 
 **Serves:** Maybe 4 people *(depends on how big you make your bowls)*
 
-*** Notes:​ 
-* This recipe was based off of a Pho Ga recipe that had some vague instructions, along with a few other tips and cooking instructions from different sources *(Ina Garten’s Perfect Roast Chicken recipe, and Serious Eats How to Toast Spices instructional)*. It’s probably not the “correct” way to prepare Pho, but boiled chicken is terrible, so I roast mine for the superior flavor and texture it’ll produce. This version of chicken pho is going to produce a richer broth than traditional pho ga; but, you can boil your chicken to make your pho “correctly.” And, if you enjoy the taste of rubbery, chewy, inedible chicken, I recommend googling “chicken pho recipes.”
+**Notes:** This recipe was based off of a Pho Ga recipe that had some vague instructions, along with a few other tips and cooking instructions from different sources *(Ina Garten’s Perfect Roast Chicken recipe, and Serious Eats How to Toast Spices instructional)*. It’s probably not the “correct” way to prepare Pho, but boiled chicken is terrible, so I roast mine for the superior flavor and texture it’ll produce. This version of chicken pho is going to produce a richer broth than traditional pho ga; but, you can boil your chicken to make your pho “correctly.” And, if you enjoy the taste of rubbery, chewy, inedible chicken, I recommend googling “chicken pho recipes.”
 
 ### Ingredients
 
