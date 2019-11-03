@@ -3,19 +3,23 @@
 Prep Time: probably an hourish total
 Cook Time: about 4 hours (hope you don’t mind hanging around your house for a few hours) Serves: Maybe 4 people (depends on how big you make your bowls)
 Notes:​ This recipe was based off of a Pho Ga recipe that had some vague instructions, along with a few other tips and cooking instructions from different sources (Ina Garten’s Perfect Roast Chicken recipe, and Serious Eats How to Toast Spices instructional). It’s probably not the “correct” way to prepare Pho, but boiled chicken is terrible, so I roast mine for the superior flavor and texture it’ll produce. This version of chicken pho is going to produce a richer broth than traditional pho ga; but, you can boil your chicken to make your pho “correctly,”. And, if you enjoy the taste of rubbery, chewy, inedible chicken, I recommend googling “chicken pho recipes.”
-Ingredients
-1 Whole Chicken (5-6 lbs)
-2 Yellow Onions, halved (reserve half an onion for garnish)
-2 inches of Ginger, sliced in half longways
-3 cloves of Garlic (leave in skins while roasting; remove skins for broth)
-2 Leeks (trim and discard roots and dark green leaves; slice leek down the middle and rinse out dirt; set aside)
-1 Tbsp Salt (you might not need the full amount)
-1 inch chunk of Rock Sugar -or- 1/2 Tbsp White Sugar
-2 Tbsp Chicken stock powder (optional)
-5-6 Star Anise
-2 Cinnamon Sticks
-5-6 Whole Cloves
-Bowl Assembly
+
+### Ingredients
+
+* 1 Whole Chicken (5-6 lbs)
+* 2 Yellow Onions, halved (reserve half an onion for garnish)
+* 2 inches of Ginger, sliced in half longways
+* 3 cloves of Garlic (leave in skins while roasting; remove skins for broth)
+* 2 Leeks (trim and discard roots and dark green leaves; slice leek down the middle and rinse out dirt; set aside)
+* 1 Tbsp Salt (you might not need the full amount)
+* 1 inch chunk of Rock Sugar -or- 1/2 Tbsp White Sugar
+* 2 Tbsp Chicken stock powder (optional)
+* 5-6 Star Anise
+* 2 Cinnamon Sticks
+* 5-6 Whole Cloves
+
+### Bowl Assembly
+
 Rice Noodles (cooked per package instructions; unless you get the flat half inch wide noodles (not recommended) those need to cook for at least 10 minutes or they're not edible).
 Sliced Chicken
 Garnish
