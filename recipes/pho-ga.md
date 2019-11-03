@@ -1,6 +1,6 @@
 # Pho Ga (Chicken Pho)
 
-**Prep Time:** probably an hourish total
+**Prep Time:** probably an hourish total<br>
 **Cook Time:** about 4 hours *(hope you don’t mind hanging around your house for a few hours)* 
 **Serves:** Maybe 4 people *(depends on how big you make your bowls)*
 
